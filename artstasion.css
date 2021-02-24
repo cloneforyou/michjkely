@@ -1,0 +1,39 @@
+/*HEADER*/
+.navbar-brand{
+    color: white !important;
+    font-family: 'Shippori Mincho', serif;
+    font-size: 25px !important;
+    font-weight: 600;
+}
+.navtogglerbtn{
+    background: white !important;
+    transition: ease 0.4s !important;
+}
+.navtogglerbtn:hover{
+    transform: scale(0.9);
+}
+.nav-toggler-icon{
+    color: black;
+}
+.menu{
+    color: white !important;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 17px;
+}
+.menu:hover{
+    border-top: 1px rgb(255, 255, 255) solid;
+}
+.donation-button{
+    transition: ease 0.4s !important;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 800 !important;
+    font-size: 17px;
+    color: white !important;
+}
+.donation-button:hover{
+    transform: scale(0.9);
+    background: rgb(255, 255, 255);
+    color: rgb(0, 0, 0) !important;
+}
+
+/*HEADER*/
